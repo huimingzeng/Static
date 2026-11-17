@@ -1,0 +1,16 @@
+./objects/stream_buffer.o: \
+  ..\..\middlewares\freertos\source\stream_buffer.c \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h \
+  ..\..\middlewares\freertos\source\include\FreeRTOS.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stddef.h \
+  ..\inc\FreeRTOSConfig.h \
+  ..\..\libraries\cmsis\cm4\device_support\system_at32f403a_407.h \
+  ..\..\middlewares\freertos\source\include\projdefs.h \
+  ..\..\middlewares\freertos\source\include\portable.h \
+  ..\..\middlewares\freertos\source\include\deprecated_definitions.h \
+  ..\..\middlewares\freertos\source\portable\GCC\ARM_CM4F\portmacro.h \
+  ..\..\middlewares\freertos\source\include\mpu_wrappers.h \
+  ..\..\middlewares\freertos\source\include\task.h \
+  ..\..\middlewares\freertos\source\include\list.h \
+  ..\..\middlewares\freertos\source\include\stream_buffer.h
